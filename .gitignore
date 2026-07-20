@@ -1,0 +1,16 @@
+# Go 安装目录（GOROOT）—— 系统工具链，不上传
+go/
+
+# Go 工作区（GOPATH）—— 依赖缓存和编译中间文件
+gopath/
+
+# 编译产物
+*.exe
+*.exe~
+
+# WorkBuddy 工作文件（含工作日志和记忆）
+.workbuddy/
+
+# 操作系统脏文件
+Thumbs.db
+.DS_Store
